@@ -15,6 +15,7 @@ get_bundle() {
 }
 
 get_bundle duff vim-bufonly
+get_bundle flazz vim-colorschemes
 get_bundle godlygeek tabular
 get_bundle jgdavey tslime.vim
 get_bundle jgdavey vim-blockle
@@ -23,6 +24,7 @@ get_bundle kchmck vim-coffee-script
 get_bundle mileszs ack.vim
 get_bundle pangloss vim-javascript
 get_bundle rking ag.vim
+get_bundle scrooloose nerdtree
 get_bundle therubymug vim-pyte
 get_bundle tomasr molokai
 get_bundle tpope vim-abolish
